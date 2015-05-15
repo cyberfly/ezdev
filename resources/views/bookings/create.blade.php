@@ -1,0 +1,1 @@
+/srv/users/serverpilot/apps/ezsecurestorage/resources/views/bookings/create.blade.php
